@@ -1,0 +1,6 @@
+{
+  "base": "your main website goes here",
+  "$comment": "add any other /links you might want to redirect anywhere else here",
+  "instagram": "https://instagram.com/",
+  "etc": "https://etc.com/"
+}
